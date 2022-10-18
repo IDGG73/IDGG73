@@ -1,7 +1,7 @@
 # Hi!
 
 It's kinda weird that you're here reading this, but well.
-I'm 15yo and love learning new things about videogame development and tech in general.
+I'm 17yo and love learning new things about videogame development and tech in general.
 
 ### My Games
 
